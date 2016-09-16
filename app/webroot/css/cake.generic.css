@@ -21,12 +21,15 @@
 }
 
 /** General Style Info **/
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
 body {
 	background: #003d4c;
 	color: #fff;
-	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
-	font-size:90%;
+	font-family:'Noto Sans JP','lucida grande',verdana,helvetica,arial,sans-serif;
 	margin: 0;
+	font-size: 90%;
+	line-height: 1.5rem;
 }
 a {
 	color: #003d4c;
